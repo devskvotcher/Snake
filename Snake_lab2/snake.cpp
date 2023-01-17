@@ -1,0 +1,1 @@
+unsigned int snake_size = 3;
