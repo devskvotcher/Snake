@@ -18,6 +18,22 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="field.cpp" />
+    <ClCompile Include="food.cpp" />
+    <ClCompile Include="game.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="snake.cpp" />
+    <ClCompile Include="winconsole.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="const.h" />
+    <ClInclude Include="field.h" />
+    <ClInclude Include="food.h" />
+    <ClInclude Include="game.h" />
+    <ClInclude Include="snake.h" />
+    <ClInclude Include="winconsole.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -126,22 +142,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="..\nake_lab7\field.cpp" />
-    <ClCompile Include="..\nake_lab7\food.cpp" />
-    <ClCompile Include="..\nake_lab7\game.cpp" />
-    <ClCompile Include="..\nake_lab7\snake.cpp" />
-    <ClCompile Include="..\nake_lab7\main.cpp" />
-    <ClCompile Include="..\nake_lab7\winconsole.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\nake_lab7\const.h" />
-    <ClInclude Include="..\nake_lab7\field.h" />
-    <ClInclude Include="..\nake_lab7\food.h" />
-    <ClInclude Include="..\nake_lab7\game.h" />
-    <ClInclude Include="..\nake_lab7\snake.h" />
-    <ClInclude Include="..\nake_lab7\winconsole.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

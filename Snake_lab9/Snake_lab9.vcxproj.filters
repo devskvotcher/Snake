@@ -15,42 +15,42 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\nake_lab9\field.cpp">
+    <ClCompile Include="..\Snake_lab8\field.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\nake_lab9\food.cpp">
+    <ClCompile Include="..\Snake_lab8\food.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\nake_lab9\game.cpp">
+    <ClCompile Include="..\Snake_lab8\game.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\nake_lab9\main.cpp">
+    <ClCompile Include="..\Snake_lab8\main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\nake_lab9\snake9.cpp">
+    <ClCompile Include="..\Snake_lab8\snake.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\nake_lab9\winconsole.cpp">
+    <ClCompile Include="..\Snake_lab8\winconsole.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\nake_lab9\const.h">
+    <ClInclude Include="..\Snake_lab8\const.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\nake_lab9\field.h">
+    <ClInclude Include="..\Snake_lab8\field.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\nake_lab9\food.h">
+    <ClInclude Include="..\Snake_lab8\food.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\nake_lab9\game.h">
+    <ClInclude Include="..\Snake_lab8\game.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\nake_lab9\snake.h">
+    <ClInclude Include="..\Snake_lab8\snake.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\nake_lab9\winconsole.h">
+    <ClInclude Include="..\Snake_lab8\winconsole.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
